@@ -234,4 +234,4 @@ elif tabs == "About":
     st.markdown("#### Connect with me")
     linkedin_button = '<a href="https://www.linkedin.com/in/tulipaggarwal/" target="_blank" style="text-align: center; margin: 0px 10px; padding: 5px 10px; border-radius: 5px; color: white; background-color: #0077B5; text-decoration: none">LinkedIn</a>'
     github_button = '<a href="https://github.com/TulipAggarwal" target="_blank" style="text-align: center; margin: 0px 10px; padding: 5px 10px; border-radius: 5px; color: white; background-color: #24292E; text-decoration: none">GitHub</a>' 
-    st.markdown("Connect with me on my socials - " f'{linkedin_button}{github_button} ', unsafe_allow_html=True
+    st.markdown("Connect with me on my socials - " f'{linkedin_button}{github_button} ', unsafe_allow_html=True)
