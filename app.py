@@ -127,7 +127,7 @@ elif tabs == "App":
         cuisine_options = ["American", "British", "Caribbean", "Chinese", "French", "Indian", "Italian", "Japanese", "Mexican"]
         cuisine = st.multiselect("Select your desired Cuisine(s)", options=cuisine_options, key="cuisine")
         course_options = ["Breakfast", "Dinner", "Lunch", "Snack"]
-        course = st.multiselect("Select your desider Course(s)", options=course_options, key="course")
+        course = st.multiselect("Select your desired Course(s)", options=course_options, key="course")
         st.markdown('')
         generate = st.button("Press to generate some Scrumptious Suggestions!")
 
@@ -223,7 +223,7 @@ elif tabs == "About":
     st.subheader("A deeper dive into the project!")
 
     st.markdown("#### Description")
-    st.markdown("This recipe recommendation system is an easy-to-use tool for users who are looking for recipes with specific ingredients that they have. When a user enters their top five food ingredients, the system can take upto the top five main ingredients entered by the user and then generate a list of recipes.")    
+    st.markdown("This recipe recommendation system is an easy-to-use tool for users who are looking for recipes with specific ingredients that they have. When a user enters a maximum of five food ingredients, the system then takes those ingredients entered by the user and then generates a list of recipes.")    
     
     st.markdown("#### Motivation")
     st.markdown("In today's fast-paced world, individuals often find themselves with limited time and a desire for convenient yet delicious meals. This project aims to address the common challenge of deciding what to cook based on the ingredients readily available in the kitchen. By offering a user-friendly platform for generating recipes with specific ingredients, the system encourages creativity in the kitchen, reduces food waste, and promotes a more enjoyable cooking experience.")    
