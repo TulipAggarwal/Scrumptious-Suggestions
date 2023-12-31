@@ -179,12 +179,17 @@ The primary goal is to simplify the often daunting task of deciding what to cook
 <img width="935" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/9014906d-4721-4f26-9f94-971297414efa">
 
 ## App Page
+
 <img width="952" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/e8775e52-ac13-41db-8d49-3f546cef9138">
+
 <img width="948" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/e6395c0a-61e2-4a45-988d-9291355ffe1a">
+
 <img width="944" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/0644639e-8fe3-4971-b5ba-d47aea70b791">
 
 ### Contact Me Page
+
 <img width="940" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/0483fcb1-1de7-4e48-b75a-80c7b329f1d7">
+
 <img width="939" alt="image" src="https://github.com/TulipAggarwal/Scrumptious-Suggestions/assets/93984886/5336cd27-03f5-49d1-a1b2-fb2e5e485125">
 
 ### About Page
